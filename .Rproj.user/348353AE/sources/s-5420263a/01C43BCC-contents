@@ -1,0 +1,18 @@
+---
+title: Test
+author: Lauren Gazda
+date: '2021-05-09'
+slug: test
+categories: []
+tags: []
+description: 'I'm testing this out Q8
+[Link to Google](https://www.google.com)'
+```{python}
+#this is python
+```
+```{R}
+#this is R
+```
+
+![Bluebonnet pic with my brother](/post/2021-05-09-test_files/DSC_8555 (2).JPG)
+---

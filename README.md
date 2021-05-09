@@ -1,0 +1,1 @@
+lngazda.github.io
