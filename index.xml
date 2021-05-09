@@ -8,13 +8,16 @@
     <language>en-US</language>
     <lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test</title>
-      <link>/post/2021/05/09/test/</link>
+      <title>Travel Photos</title>
+      <link>/post/2021/05/09/travel-photos/</link>
       <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>/post/2021/05/09/test/</guid>
-      <description> This is some nonsense. Link to project 1 Link to google
-#R chunk #Phython chunk </description>
+      <guid>/post/2021/05/09/travel-photos/</guid>
+      <description>One thing I miss in COVID times is being able to travel. In memory and hope that countries will start letting tourist in, here are a couple of my favorite photos that I’ve taken abroad.
+Vienna, Austria: Volksgarten of the Hofburg Palace
+The Belvedere
+Prague, Czech Republic: Nepomuk Statue At The St. Charles Bridge Portion of the Astronomical Clock
+Warsaw, Poland: The Siren of Warsaw</description>
     </item>
     
     <item>
