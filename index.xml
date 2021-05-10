@@ -8,6 +8,16 @@
     <language>en-US</language>
     <lastBuildDate>Sun, 09 May 2021 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Python and R</title>
+      <link>/post/2021/05/09/python-and-r/</link>
+      <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/post/2021/05/09/python-and-r/</guid>
+      <description>Statisticians swear by R and CS majors go full die-hard for Python, but really the debate on which is the better programming language comes down to personal preference. In fact you don’t even have to chose. With the Reticulate package you can work in R and create interactive Python code chunk, or if you prefer the Python layout you can access the Jupyter Notebook for R access.
+I would love to look further into Python packages (I’ve just explored a little of Pandas for data frame manipulation) but just to show I’ll give a quick simple demo.</description>
+    </item>
+    
+    <item>
       <title>Travel Photos</title>
       <link>/post/2021/05/09/travel-photos/</link>
       <pubDate>Sun, 09 May 2021 00:00:00 +0000</pubDate>
